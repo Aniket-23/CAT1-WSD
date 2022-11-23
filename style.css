@@ -1,0 +1,18 @@
+body {
+    background-image: linear-gradient(skyblue, blue);
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+fieldset {
+    display: block;
+    text-align: center;
+}
+
+a:hover {
+    color: red;
+}

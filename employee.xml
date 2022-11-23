@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employee.xsl"?>
+<company>
+    <employee>
+        <id>1</id>
+        <name>Aniket</name>
+        <age>22</age>
+        <salary>100000</salary>
+        <email>aniket.singh@mca.christuniversity.in</email>
+        <phone>6204081417</phone>
+        <designation>Software Enigineer</designation>
+    </employee>
+    <employee>
+        <id>2</id>
+        <name>Karthik</name>
+        <age>20</age>
+        <salary>200000</salary>
+        <email>karthik.pohane@mca.christuniversity.in</email>
+        <phone>7352917036</phone>
+        <designation>CEO</designation>
+    </employee>
+    <employee>
+        <id>3</id>
+        <name>Arithra</name>
+        <age>18</age>
+        <salary>50000</salary>
+        <email>arithra.sarkar@mca.christuniversity.in</email>
+        <phone>9431150087</phone>
+        <designation>Software Developer</designation>
+    </employee>
+    <employee>
+        <id>4</id>
+        <name>Adithyo</name>
+        <age>33</age>
+        <salary>60000</salary>
+        <email>adithyo.gope@mca.christuniversity.in</email>
+        <phone>73529150087</phone>
+        <designation>Database Administrator</designation>
+    </employee>
+</company>
